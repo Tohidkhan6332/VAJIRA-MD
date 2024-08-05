@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 
-global.thumb = fs.readFileSync(https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg')
+global.thumb = fs.readFileSync('https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg')
 const BOTNAME = 'TOHID-KHAN|-WA-BOT™';
 const FOOTERNAME = '> TOHID -  ＭＤ - Ｖ4';
 global.owner = process.env.OWNER_NUMBER  || '917849917350' ;  // ADD YOUR NUMBER WITHOUT +
